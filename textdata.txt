@@ -1,0 +1,23 @@
+********************************************************************
+		Description of the Bulletin Board.
+	The information to be displayed on the Bulletin Board
+	must follow following Rules :-
+
+1) Approximately 320 characters can be accomodated on this Bulletin board.
+   So, any character Beyond that limit may not be visible.
+
+2) The information must be enclosed inside curly braces i.e. '{example, This will be seen on the Bulletin board.}'
+
+3) Any thing writen any where beyond these brackets will not be visible
+   on the Bulletin board.
+
+4) The Notice remains on the Bulletin board for Only 10 seconds.
+
+5) The brackets must be present in pairs otherwise The program may behave
+   in an un-expected manner.
+********************************************************************
+{!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!#}
+{1234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789#}
+{*****************************Dated : 16th August 2010.Aim of Project : "Designing an e-card Player."Design Platform : Macromedia Flash version 8This project is getting designed by -"Praveer kumar B.E. Final year Computer Engineering Batch : 2007-2011."***************************#}
+{e-card loader.swf Movie Report-------------------------------Metadata--------Bytes    Value-----    -----  223    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"><rdf:Description rdf:about="" xmlns:dc="http://purl.org/dc/1.1/"><dc:title>e-card Loader</dc:title><d}
+{ActionScript Bytes    Location------------------    --------               372    Scene 1:Layer 1:1Bitmap                     Compressed    Compression-----------------------    ----------  --------  -----------spinner                          623         256   LosslessBitmap 2ss}
